@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Prevent accidental dataset uploads
+*.csv
+*.tsv
+*.json
+*.parquet
+*.xlsx
+*.zip
+*.gz
+
+# macOS
+.DS_Store
