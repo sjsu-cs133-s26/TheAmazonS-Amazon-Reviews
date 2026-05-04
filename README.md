@@ -29,7 +29,12 @@ This visualization shows which books received the highest number of reviews in t
 
 
 ### Visualization 3: Rating Composition by Star Level
+This visualization shows the percentage distribution of 1-star to 5-star ratings across all Amazon book reviews.
 
+![Rating Composition](figures/rating_composition.png)
+
+**Key takeaway:**  
+Most reviews are concentrated in the higher ratings (4–5 stars), indicating generally positive customer sentiment toward books on Amazon.
 
 ---
 
