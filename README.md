@@ -26,7 +26,12 @@ This visualization shows which books received the highest number of reviews in t
 **Key takeaway:** A few books, such as *The Hobbit* and *Pride and Prejudice*, received much higher review counts than most other titles. This suggests that reader engagement on Amazon is highly concentrated, which can affect visibility, trust, and purchasing decisions.
 
 ### Visualization 2: Average Rating by Popularity Bucket
+This visualization shows books divided into five popularity tiers based on their total number of ratings. For each tier, the bar represents the mean average rating and the error bars represent the 95% confidence interval, showing how reliable each estimate is.
 
+<img width="710" height="485" alt="Screenshot 2026-05-04 at 5 12 11 PM" src="https://github.com/user-attachments/assets/d1d99891-6e46-4ec6-8539-c8d744112e78" />
+
+**Key takeaway:**  
+Popular books get more attention since they’ve earned it. The least-rated books have the biggest error bars, meaning that their scores are all over the place and hard to trust. But as a book gains more readers, its rating becomes more reliable. The difference between a less-known book and a widely-read one is only about 0.05 stars on average, so popularity doesn't necessarily make a book. However, it does mean you can trust the score more. For someone deciding which books to put in front of readers, that consistency matters just as much as the rating itself.
 
 ### Visualization 3: Rating Composition by Star Level
 This visualization shows the percentage distribution of 1-star to 5-star ratings across all Amazon book reviews.
